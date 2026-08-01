@@ -26,12 +26,7 @@
 (5) HSV
 H是颜色种类，S是鲜艳程度，V是亮度。
 
-3. 怎么运行
-
-cd image_processing
-python week01_image_io.py
-
-4. 结果
+3. 结果
 
 输入：flower1.png、flower2.png、flower3.png
 输出：每张图各有 _gray、_hsv、_half，一共9张，在output_week01里。
@@ -41,6 +36,6 @@ flower2大概1280x940，3通道
 flower3大概668x500，3通道
 像素大概在0到255之间。
 
-5. 遇到的问题
+4. 遇到的问题
 
 路径有中文时，cv2.imread有时读不了，改成fromfile再imdecode就可以了。

@@ -1,11 +1,16 @@
 ml-learning
 
-第1周练习。
+暑期图像处理练习。
 
-代码：image_processing/week01_image_io.py
-笔记：notes/week01.md
-图片：image_processing/data 和 output_week01
+第1周：
+代码 image_processing/week01_image_io.py
+笔记 notes/week01.md
 
-运行：
+第2周：
+代码 image_processing/week02_cv_demo.py
+笔记 notes/week02.md
+结果图 image_processing/output_week02
+
+运行第2周：
 cd image_processing
-python week01_image_io.py
+python week02_cv_demo.py
