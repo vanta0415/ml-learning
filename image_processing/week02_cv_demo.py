@@ -1,5 +1,4 @@
-# 第2周：增强、边缘、形态学 + 轮廓计数小实验
-# 运行: python week02_cv_demo.py
+# 第2周：增强、边缘、形态学 + 轮廓计数
 
 from pathlib import Path
 import cv2

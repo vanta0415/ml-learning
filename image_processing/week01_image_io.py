@@ -1,5 +1,4 @@
 # 第1周：读图、灰度、HSV、缩放
-# 运行: python week01_image_io.py
 
 from pathlib import Path
 import cv2

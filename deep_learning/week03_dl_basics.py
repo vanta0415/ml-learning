@@ -1,5 +1,4 @@
-# 第3周：深度学习训练流程（线性回归）
-# 运行: python week03_dl_basics.py
+# 第3周：线性回归
 
 from pathlib import Path
 import numpy as np
