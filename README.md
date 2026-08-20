@@ -1,7 +1,7 @@
 ml-learning
 
 image_processing/     第1-2周
-deep_learning/        第3周
+deep_learning/        第3-4周
 notes/                笔记
 requirements.txt
 
@@ -20,3 +20,8 @@ notes/week02.md
 deep_learning/week03_dl_basics.py
 deep_learning/output_week03/
 notes/week03.md
+
+第4周
+deep_learning/week04_mlp_classification.py
+deep_learning/output_week04/
+notes/week04.md
