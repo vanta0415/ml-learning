@@ -1,0 +1,5 @@
+network,year,point
+AlexNet,2012,深度CNN开始火起来
+VGG,2014,用很多小卷积堆很深
+GoogLeNet,2014,Inception多尺度特征
+ResNet,2015,残差连接，更深也能训
