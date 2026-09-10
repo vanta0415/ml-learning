@@ -1,7 +1,7 @@
 ml-learning
 
 image_processing/     第1-2周
-deep_learning/        第3-6周
+deep_learning/        第3-7周
 notes/                笔记
 requirements.txt
 
@@ -35,3 +35,8 @@ notes/week05.md
 deep_learning/week06_transfer_learning.py
 deep_learning/output_week06/
 notes/week06.md
+
+第7周
+deep_learning/training_template/
+deep_learning/output_week07/
+notes/week07.md
