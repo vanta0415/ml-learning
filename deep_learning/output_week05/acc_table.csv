@@ -1,0 +1,2 @@
+model,test_acc,epochs,train_size
+SmallCNN,0.9500,4,8000
